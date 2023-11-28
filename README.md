@@ -1,3 +1,1 @@
-# UmbrellaAcademy
-Getting our feet wet with GitHub  
-The initiates of Class 2021
+juat trying to create a pull request so i am creating something
